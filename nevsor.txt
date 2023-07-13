@@ -1,3 +1,5 @@
 Oktató: Balla Tamás
 Téma: Verziókezelés 
-// Ebbe a fájlba mindenki beleírja a saját nevét CsehAbel
+
+// Ebbe a fájlba mindenki beleírja a saját nevét 
+Pap Vince, Papv99; Papv99@gmail.com  
