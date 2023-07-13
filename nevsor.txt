@@ -1,4 +1,7 @@
 Oktató: Balla Tamás
 Téma: Verziókezelés 
+
 // Ebbe a fájlba mindenki beleírja a saját nevét 
 O. Czeizing Hedvig - czeizinghedi@gmail.com
+Pap Vince, Papv99; Papv99@gmail.com  
+
